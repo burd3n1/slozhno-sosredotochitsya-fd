@@ -9,4 +9,41 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+    --accent-color: rgb(255, 0, 112);
+    --accent-color-hover: rgb(255, 0, 112, 0.4);
+    --title-color: #db00ff;
+    --bg-color:#000028;
+    --card-font-color: #f1b2ce;
+    --bg-img: url(../images/cover-image-dark.png);
+    --text-color: rgb(255, 0, 112);
+    --text-color-hover: rgb(255, 0, 112, 0.4);
+
+    .header__decor__element{
+        visibility: visible;
+    }
+
+    .header__theme-menu-button_active{
+        border:1px solid var(--accent-color) !important;
+    }
+
+    .header__theme-menu-button{
+        color:var(--text-color);
+    }
+
+    .header__theme-menu-button:focus-visible{
+        border-bottom: 1px solid var(--text-color);
+    }
+
+    .header__theme-menu-button:hover{
+        border: 1px solid var(--text-color-hover);
+        color: var(--text-color);
+    }
+
+    p{
+        color: white;
+    }
+
+    h3{
+        color: var(--bg-color);
+    }
 }
