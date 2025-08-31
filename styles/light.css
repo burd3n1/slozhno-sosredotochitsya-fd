@@ -30,11 +30,11 @@
             color: var(--text-color);
         }
 
-        p{
+        p {
             color: var(--text-color);
         }
 
-        h2,h3{
+        h2,h3 {
             color: var(--text-color);
         }
 
@@ -70,7 +70,7 @@
         border:1px solid var(--text-color) !important;
     }
 
-    .header__theme-menu-button{
+    .header__theme-menu-button {
         color:var(--text-color);
     }
 
@@ -83,11 +83,11 @@
         color: var(--text-color);
     }
 
-    p{
+    p {
         color: var(--text-color);
     }
 
-    h2,h3{
+    h2,h3 {
         color: var(--text-color);
     }
 
