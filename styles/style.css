@@ -8,8 +8,9 @@
     background-attachment: fixed;
     background-color: #000028;
     justify-items: center;
-    max-width: 375px;
+    min-width: 375px;
     min-height: 668px;
+
   /* сохраните в разметке и стилях класс page у тега body. Он удобен, чтобы составлять селекторы для разных цветовых тем. */
 }
 
