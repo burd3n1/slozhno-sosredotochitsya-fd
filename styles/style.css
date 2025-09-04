@@ -197,7 +197,7 @@ p {
     padding-top: 10px;
 }
 
-.question__card__description br{
+.question__card__description br {
     display: none;
 }
 
@@ -218,17 +218,12 @@ p {
 
 .reasons__section {
     display: grid;
-    grid-template-rows: repeat(2, auto);
-}
-
-.reasons__section {
-    display: grid;
     grid-template-columns: 355px;
     grid-template-rows: repeat(2, auto);
     justify-self: center;
 }
 
-.reasons__title{
+.reasons__title {
     padding-top: 30px;
     padding-bottom: 20px;
 }
@@ -239,7 +234,7 @@ p {
     grid-template-rows: repeat(3, auto);
 }
 
-.answer__section{
+.answer__section {
     display: grid;
     grid-template-rows: repeat(3, auto);
     grid-template-columns: 355px;
@@ -259,7 +254,7 @@ p {
     color: var(--bg-color);
 }
 
-.answer__card__description br{
+.answer__card__description br {
     display: none;
 }
 
@@ -316,9 +311,6 @@ p {
 
     .header__theme-menu-list {
         margin-top: 25%;
-    }
-
-    .header__theme-menu-list {
         padding-right: 20px;
     }
 
@@ -365,7 +357,7 @@ p {
         justify-self: center;
     }
 
-    .reasons__block{
+    .reasons__block {
         width: 728px;
     }
 
@@ -527,22 +519,22 @@ p {
             padding: 0;
         }
 
-        .reasons__list{
+        .reasons__list {
             display: grid;
             grid-template-columns: repeat(3,315px);
             grid-template-rows: repeat(1,auto);
             justify-self: center;
         }
 
-        .reasons__block{
+        .reasons__block {
             width: 315px;
         }
 
-        .answer__section{
+        .answer__section {
             grid-template-columns: 32% auto;
         }
 
-        .answer__block{
+        .answer__block {
             width: 649px;
         }
 
