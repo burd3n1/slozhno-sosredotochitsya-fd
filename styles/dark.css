@@ -22,10 +22,6 @@
         visibility: visible;
     }
 
-    .header__theme-menu-button_active {
-        border:1px solid var(--accent-color) !important;
-    }
-
     .header__theme-menu-button {
         color:var(--text-color);
     }
@@ -39,11 +35,8 @@
         color: var(--text-color);
     }
 
-    p {
-        color: white;
-    }
-
-    h3 {
+    .decor__element {
         color: var(--bg-color);
     }
+
 }
