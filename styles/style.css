@@ -253,7 +253,7 @@ p {
     display: none;
 }
 
-.answer__block{
+.answer__block {
     margin-bottom: 20px;
 }
 
@@ -289,9 +289,6 @@ p {
 
 
 @media screen and (min-width: 768px) {
-    .page {
-        min-width: 768px;
-    }
 
     .decorated-zone::before {
         top: 20px;
@@ -324,7 +321,7 @@ p {
     .header__description {
         justify-self: end;
         width: 364px;
-        margin: 0;
+        margin-right: 20px;
     }
 
     .question__section {
@@ -467,9 +464,6 @@ p {
 
 
     @media screen and (min-width: 1024px) {
-        .page {
-            min-width: 1024px;
-        }
 
         .header__theme-menu {
             grid-template-columns: auto;
