@@ -313,7 +313,6 @@ p {
         margin-right: 20px;
     }
 
-
     .question__section {
         margin-top: 60px;
         padding-right: 20px;
@@ -361,7 +360,6 @@ p {
     .answer__title {
         padding-top: 0;
         padding-left: 10px;
-
     }
 
     .picture__section {
@@ -451,7 +449,7 @@ p {
     }
 
     .question__item {
-        padding-left: 16px ;
+        padding-left: 14px ;
     }
 
     .reasons__section {
