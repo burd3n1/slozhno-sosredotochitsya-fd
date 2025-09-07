@@ -159,7 +159,6 @@ p {
     grid-template-columns:355px;
     grid-template-rows: repeat(2, auto);
     gap: 20px;
-    justify-self: center;
 }
 
 .section__title {
@@ -228,14 +227,7 @@ p {
     gap: 20px;
 }
 
-.section__container{
-    display: grid;
-    grid-template-rows: repeat(2, auto);
-    grid-template-columns: 355px;
-    gap: 20px;
-}
-
-.content__card-list{
+.content__card-list {
     display: grid;
     grid-template-rows: repeat(2, auto);
     gap: 20px;
@@ -327,7 +319,7 @@ p {
         padding-right: 20px;
     }
 
-    .section__container{
+    .section__container {
         display: grid;
         grid-template-columns: 33% auto;
         grid-template-rows: auto;
@@ -344,9 +336,6 @@ p {
         grid-template-rows: repeat(2, auto);
         gap: 20px;
         justify-items: center;
-    }
-
-    .reasons__block {
     }
 
     .reasons__title {
@@ -391,7 +380,7 @@ p {
         gap: 20px;
     }
 
-    .picture__title{
+    .picture__title {
         grid-area: title;
     }
 
