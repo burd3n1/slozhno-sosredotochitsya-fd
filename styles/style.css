@@ -441,9 +441,12 @@ p {
         padding-right: 0;
     }
 
+    .header__title {
+        padding: 0;
+    }
+
     .title {
         justify-self: start;
-        padding: 0;
     }
 
     .header__description {
