@@ -14,6 +14,7 @@
         --card-font-color: #353430;
         --border-button-color: #353430;
         --title-paragra-color: #353430;
+        --decorate-zone-color: #353430;
 
         .header__decor__element {
             visibility: hidden;
@@ -35,6 +36,7 @@
     --card-font-color: #353430;
     --border-button-color: #353430;
     --title-paragra-color: #353430;
+    --decorate-zone-color: #353430;
 
     .header__decor__element {
         visibility: hidden;

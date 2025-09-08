@@ -19,6 +19,7 @@
     --text-color-hover: rgb(255, 0, 112, 0.4);
     --border-button-color: rgb(255, 0, 112);
     --title-paragra-color: #000028;
+    --decorate-zone-color: rgb(255, 0, 112);
 
     .header__decor__element {
         visibility: visible;
